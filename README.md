@@ -5,6 +5,8 @@ This is the GitHub FrediServer Project!
 
 YOU could be a Developer or you could have access to the Public Cloud!
 
+The Password to the API-KEY File can you get here:
+
 But before here are some things to tell you:
 
 1.Do NOT share any API Keys!
